@@ -101,12 +101,6 @@ This dashboard enables:
 
 ---
 
-## 📷 Dashboard Preview
-
-![Netflix Dashboard](dashboard_screenshot.png)
-
----
-
 ## 🎯 Conclusion
 
 The Netflix Content Analysis Dashboard provides a comprehensive view of Netflix's content ecosystem through interactive and visually engaging analytics. It helps users uncover trends, analyze content categories, and understand the global distribution of Netflix titles efficiently.
